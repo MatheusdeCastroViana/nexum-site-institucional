@@ -1,12 +1,12 @@
-# Nexum — Página Institucional
+# Nexum - Página Institucional
 
 Landing page institucional da Nexum, construída em HTML, CSS e JavaScript puro.
 
 ## Estrutura
 
-- `index.html` — estrutura e conteúdo da página.
-- `styles.css` — identidade visual, layout, responsividade e animações.
-- `script.js` — Scroll Reveal, menu mobile, header e contador do hero.
+- `index.html` - estrutura e conteúdo da página.
+- `styles.css` - identidade visual, layout, responsividade e animações.
+- `script.js` - Scroll Reveal, menu mobile, header e contador do hero.
 
 ## Como abrir no VS Code
 
